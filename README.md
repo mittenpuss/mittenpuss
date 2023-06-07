@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I enjoy working on the Frontend with React.JS
+
+**Languages**
+Javascript 
+
+**Databases**
+PostgreSQL  MongoDB  Redis 
+
+**Technologies**
+Git  NodeJS  Docker  NginX  Kafka  RabbitMQ 
+
+**Git Status**
+🔄  Commits : commits
+
+⭐ Stars : stars
+
+🛠️ Pull Requests : prs
+
+⁉️ Issues : issues
+
+📚 Contributions : contribs
